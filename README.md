@@ -18,7 +18,7 @@ in another,
 
 ```sh
 npm run watch
-``
+```
 
 you can modify `test/index.js` - the program will re-run on saved changes.
 
