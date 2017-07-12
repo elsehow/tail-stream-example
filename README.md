@@ -16,7 +16,7 @@ bash write-to-file.sh
 
 in another,
 
-``sh
+```sh
 npm run watch
 ``
 
